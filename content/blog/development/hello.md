@@ -2,6 +2,7 @@
 title: 'Welcome Bee starter'
 date: 2020-07-04 12:21:13
 category: 'development'
+thumbnail: {./images/hello.png}
 draft: false
 ---
 
@@ -31,7 +32,7 @@ draft: false
 2. Support highlighting with [prism](https://github.com/PrismJS/prism)
    2-1. Use inline highlighting
 
-```js{3}
+```js
 import React from 'react'
 
 const TEMPLATE = 'gatsby-starter-bee'
@@ -72,7 +73,7 @@ _code_
 
 **bold** _italic_
 
-## 4. Support emoji :rocket:
+## 4. Support emoji :rocket
 
 Based on [emojione](https://github.com/emojione/emojione) :pray:
 

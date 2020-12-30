@@ -1,8 +1,4 @@
-<div align="center">
-
-  <img src="./assets/gatsby-starter-bee.png" width="360px" />
-
-</div>
+<h1> 고마워요 JBEE! <h1>
 
 [![Financial Contributors on Open Collective](https://opencollective.com/gatsby-starter-bee/all/badge.svg?label=financial+contributors)](https://opencollective.com/gatsby-starter-bee) [![Greenkeeper badge](https://badges.greenkeeper.io/JaeYeopHan/gatsby-starter-bee.svg)](https://greenkeeper.io/)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/JaeYeopHan/gatsby-starter-bee.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JaeYeopHan/gatsby-starter-bee/alerts/)
@@ -123,7 +119,7 @@ You can write...
 npm run post
 ```
 
-👉 Use **gatsby-post-gen** (https://github.com/JaeYeopHan/gatsby-post-gen)
+👉 Use **gatsby-post-gen** (<https://github.com/JaeYeopHan/gatsby-post-gen>)
 
 ### 4. Fix meta data
 
@@ -188,7 +184,7 @@ src/styles
 - Favicon image! (replace file in `/content/assets/felog.png`)
 - Header gradient! (\$theme-gradient `/styles/variables.scss`)
 - Utterances repository! (replace repository address in `/gatsby-meta-config.js`)
-  - ⚠️ Please check, this guide(https://utteranc.es/)
+  - ⚠️ Please check, this guide(<https://utteranc.es/>)
 
 ## ☕ Like it?
 
@@ -196,7 +192,7 @@ src/styles
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
 </a>
 
-## 🤔 If...
+## 🤔 If
 
 If you are currently writing in the Medium, consider migration with [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog)!
 

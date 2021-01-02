@@ -7,8 +7,6 @@ draft: false
 ---
 
 
-
-
 ![드라마 속 그네소녀 캡처](./images/swing-girl.gif)
 *캡처 영상 출처: [해별이님 블로그](https://blog.naver.com/PostView.nhn?blogId=shj0504&logNo=222126307679)*
 

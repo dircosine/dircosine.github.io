@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # ---
-# git add content/
-git add .
+# git add content/  # content 만 추가한 경우
+git add .           # 이외 build
 git commit -m "$1"
 git push
 
